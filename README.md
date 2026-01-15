@@ -66,3 +66,10 @@ allow-overwrite=true
 程序启动后，所有程序的配置均保存在`aria2cCG.ini`文件中
 
 程序图标使用了 [jsupdater](https://icon-sets.iconify.design/arcticons/jsupdater)
+
+
+# License
+
+CC BY-NC-SA 4.0
+
+[署名—非商业性使用—相同方式共享 4.0 协议国际版](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-hans)
