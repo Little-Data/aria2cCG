@@ -1,6 +1,6 @@
 # aria2c 控制器
 
-<img src="https://github.com/user-attachments/assets/686ba1dc-861d-471b-acd0-eed14d01124c" />
+<img src="https://github.com/user-attachments/assets/f5267481-7741-4acf-a1b9-1146ff4072d0" />
 
 简单管理[aria2c](https://github.com/aria2/aria2)命令行程序的启动与停止
 
@@ -16,7 +16,7 @@ aria2c是一个开源的支持多种协议的多线程下载器，体积小而�
 
 `Web管理页面路径`：[AriaNg](https://github.com/mayswind/AriaNg)网页管理页面html文件位置，可以通过该页面管理下载任务
 
-**日志窗口只是提供了简单显示，难免会出现问题，如果很有必要显示aria2c的输出，建议使用系统的命令提示符直接启动aria2c！**
+**如果很有必要显示aria2c的输出，建议使用系统的命令提示符直接启动aria2c！**
 
 该软件所说的“服务”不是指系统的服务(services)，软件将aria2c启动在子进程内，没有命令提示符窗口，后台运行
 
